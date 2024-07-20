@@ -21,16 +21,16 @@ The application includes secure user management features for account creation, l
 
 ##
 ### Login Page:
-![image](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/8b38ebb2-6764-4c49-8ced-85cb0c1861dd)
-##
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/dce5bd82-8685-451b-9357-792aef90256d"/>
+
 ### Register Page:
-![image](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/16431dc4-b3c3-45e4-805f-9a121766b7eb)
-##
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/537bec61-b1f1-44ce-8a35-8c8fe4160114"/>
+
 ### Adding the expenses:
-![Screenshot (91)](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/d8bf2881-39d8-45ce-a72c-af14ad7855eb)
-##
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/fb8c0bee-ea4c-4676-991b-097b555b18cf"/>
+
 ### Records:
-![Screenshot (92)](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/cbf709be-fef1-470c-a161-9c4ad5316dbd)
-##
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/d47879ce-9a00-4acb-bed3-e7a86b2d749a"/>
+
 ### Dashboard:
-![Screenshot (93)](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/f3c1b04a-23aa-47b2-a098-d6e5f7b78e59)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/0c5e47e7-d879-4dd8-84fb-d80233a13696"/>
